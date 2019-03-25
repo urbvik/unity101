@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2BytScene/2BytSceneA.unity
+  isLoaded: 1
+  isActive: 1
