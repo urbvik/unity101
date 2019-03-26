@@ -25,4 +25,6 @@ public class Click : MonoBehaviour
         rigid.AddForce(transform.right * 300f);
         rigid.useGravity = true;
     }
+
+  
 }

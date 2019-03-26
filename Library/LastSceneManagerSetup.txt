@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/2BytScene/2BytSceneA.unity
+- path: Assets/3Varuhus/3Varuhus.unity
   isLoaded: 1
   isActive: 1
