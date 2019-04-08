@@ -65,6 +65,9 @@
     <Compile Include="Assets\3Varuhus\mouseHoverEffect.cs" />
     <Compile Include="Assets\3Varuhus\wallet.cs" />
     <Compile Include="Assets\4EgnaModeller\rotate.cs" />
+    <Compile Include="Assets\5StateMachine\MouseClick.cs" />
+    <Compile Include="Assets\5StateMachine\StateMachine.cs" />
+    <Compile Include="Assets\5StateMachine\Timer.cs" />
     <Compile Include="Assets\OutlineEffect\Demo\MaterialSwitcher.cs" />
     <Compile Include="Assets\OutlineEffect\Demo\OutlineAnimation.cs" />
     <Compile Include="Assets\OutlineEffect\Demo\Rotate.cs" />
