@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/5StateMachine/StateMachine.unity
+- path: Assets/7Jump/Jump.unity
   isLoaded: 1
   isActive: 1
