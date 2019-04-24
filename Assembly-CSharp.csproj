@@ -71,6 +71,7 @@
     <Compile Include="Assets\7Jump\Ballistic.cs" />
     <Compile Include="Assets\7Jump\CylinderKlick.cs" />
     <Compile Include="Assets\8CreateInstantiateAtRuntime\CreateGameObject.cs" />
+    <Compile Include="Assets\9LoadContry\ClickContry.cs" />
     <Compile Include="Assets\OutlineEffect\Demo\MaterialSwitcher.cs" />
     <Compile Include="Assets\OutlineEffect\Demo\OutlineAnimation.cs" />
     <Compile Include="Assets\OutlineEffect\Demo\Rotate.cs" />

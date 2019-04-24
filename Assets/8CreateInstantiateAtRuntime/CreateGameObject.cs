@@ -16,7 +16,6 @@ public class CreateGameObject : MonoBehaviour
                 GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
                 cube.AddComponent<Rigidbody>();
 
-               
                 cube.transform.position = new Vector3(x + offset*x, y + offset*y, 0);
             }
         }

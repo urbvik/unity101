@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: c5d5c57f40f3d9843ae4ac2d63538f94
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Austria
+    100002: Belgium
+    100004: Bulgaria
+    100006: Camera
+    100008: 'Contry Text '
+    100010: Croatia
+    100012: Czech. Rep.
+    100014: Estonia
+    100016: //RootNode
+    100018: Finland Flat
+    100020: France
+    100022: Greece
+    100024: "G\xE4vle"
+    100026: "G\xE4vle.001"
+    100028: "G\xF6teborg"
+    100030: "G\xF6teborg.001"
+    100032: Hungary
+    100034: Italy
+    100036: Kiruna
+    100038: Kiruna.001
+    100040: Lamp
+    100042: Latvia
+    100044: "Link\xF6ping"
+    100046: "Link\xF6ping.001"
+    100048: Lithuania
+    100050: "Lule\xE5"
+    100052: "Lule\xE5.001"
+    100054: "Malm\xF6"
+    100056: "Malm\xF6.001"
+    100058: Malta
+    100060: Map
+    100062: Netherlands
+    100064: Norway Flat
+    100066: Poland
+    100068: Poland.001
+    100070: Portugal
+    100072: Republic of Cyprus
+    100074: Rumanien
+    100076: "Skellefte\xE5"
+    100078: "Skellefte\xE5.001"
+    100080: Slovakia
+    100082: Slovenia
+    100084: Spain
+    100086: Stockholm
+    100088: Stockholm.001
+    100090: Sundsvall
+    100092: Sundsvall.001
+    100094: Sweden Engraved
+    100096: Sweden Flat
+    100098: Tyskland
+    100100: Ukraina
+    100102: "Ume\xE5"
+    100104: "Ume\xE5.001"
+    100106: Vitryssland
+    100108: "V\xE4ster\xE5s"
+    100110: "V\xE4ster\xE5s.001"
+    100112: "\xD6rebro"
+    100114: "\xD6rebro.001"
+    100116: "\xD6stersund"
+    100118: "\xD6stersund.001"
+    400000: Austria
+    400002: Belgium
+    400004: Bulgaria
+    400006: Camera
+    400008: 'Contry Text '
+    400010: Croatia
+    400012: Czech. Rep.
+    400014: Estonia
+    400016: //RootNode
+    400018: Finland Flat
+    400020: France
+    400022: Greece
+    400024: "G\xE4vle"
+    400026: "G\xE4vle.001"
+    400028: "G\xF6teborg"
+    400030: "G\xF6teborg.001"
+    400032: Hungary
+    400034: Italy
+    400036: Kiruna
+    400038: Kiruna.001
+    400040: Lamp
+    400042: Latvia
+    400044: "Link\xF6ping"
+    400046: "Link\xF6ping.001"
+    400048: Lithuania
+    400050: "Lule\xE5"
+    400052: "Lule\xE5.001"
+    400054: "Malm\xF6"
+    400056: "Malm\xF6.001"
+    400058: Malta
+    400060: Map
+    400062: Netherlands
+    400064: Norway Flat
+    400066: Poland
+    400068: Poland.001
+    400070: Portugal
+    400072: Republic of Cyprus
+    400074: Rumanien
+    400076: "Skellefte\xE5"
+    400078: "Skellefte\xE5.001"
+    400080: Slovakia
+    400082: Slovenia
+    400084: Spain
+    400086: Stockholm
+    400088: Stockholm.001
+    400090: Sundsvall
+    400092: Sundsvall.001
+    400094: Sweden Engraved
+    400096: Sweden Flat
+    400098: Tyskland
+    400100: Ukraina
+    400102: "Ume\xE5"
+    400104: "Ume\xE5.001"
+    400106: Vitryssland
+    400108: "V\xE4ster\xE5s"
+    400110: "V\xE4ster\xE5s.001"
+    400112: "\xD6rebro"
+    400114: "\xD6rebro.001"
+    400116: "\xD6stersund"
+    400118: "\xD6stersund.001"
+    2000000: Camera
+    2100000: Material.007
+    2100002: Material.006
+    2100004: Material.005
+    2100006: Material.002
+    2100008: Material
+    2100010: Material.001
+    2100012: finland
+    2100014: Norway
+    2100016: No Name
+    2100018: Sweden
+    2100020: Material.003
+    2100022: Material.004
+    2100024: Material.008
+    2100026: Material.009
+    2100028: Material.010
+    2100030: Material.011
+    2100032: Material.012
+    2100034: Material.013
+    2100036: Material.014
+    2100038: Material.015
+    2100040: Material.016
+    2100042: Material.017
+    2100044: Material.018
+    2100046: Material.019
+    2100048: Material.020
+    2100050: Material.021
+    2100052: Material.022
+    2100054: Material.023
+    2300000: Austria
+    2300002: Belgium
+    2300004: Bulgaria
+    2300006: 'Contry Text '
+    2300008: Croatia
+    2300010: Czech. Rep.
+    2300012: Estonia
+    2300014: Finland Flat
+    2300016: France
+    2300018: Greece
+    2300020: "G\xE4vle"
+    2300022: "G\xE4vle.001"
+    2300024: "G\xF6teborg"
+    2300026: "G\xF6teborg.001"
+    2300028: Hungary
+    2300030: Italy
+    2300032: Kiruna
+    2300034: Kiruna.001
+    2300036: Latvia
+    2300038: "Link\xF6ping"
+    2300040: "Link\xF6ping.001"
+    2300042: Lithuania
+    2300044: "Lule\xE5"
+    2300046: "Lule\xE5.001"
+    2300048: "Malm\xF6"
+    2300050: "Malm\xF6.001"
+    2300052: Malta
+    2300054: Netherlands
+    2300056: Norway Flat
+    2300058: Poland
+    2300060: Poland.001
+    2300062: Portugal
+    2300064: Republic of Cyprus
+    2300066: Rumanien
+    2300068: "Skellefte\xE5"
+    2300070: "Skellefte\xE5.001"
+    2300072: Slovakia
+    2300074: Slovenia
+    2300076: Spain
+    2300078: Stockholm
+    2300080: Stockholm.001
+    2300082: Sundsvall
+    2300084: Sundsvall.001
+    2300086: Sweden Engraved
+    2300088: Sweden Flat
+    2300090: Tyskland
+    2300092: Ukraina
+    2300094: "Ume\xE5"
+    2300096: "Ume\xE5.001"
+    2300098: Vitryssland
+    2300100: "V\xE4ster\xE5s"
+    2300102: "V\xE4ster\xE5s.001"
+    2300104: "\xD6rebro"
+    2300106: "\xD6rebro.001"
+    2300108: "\xD6stersund"
+    2300110: "\xD6stersund.001"
+    3300000: Austria
+    3300002: Belgium
+    3300004: Bulgaria
+    3300006: 'Contry Text '
+    3300008: Croatia
+    3300010: Czech. Rep.
+    3300012: Estonia
+    3300014: Finland Flat
+    3300016: France
+    3300018: Greece
+    3300020: "G\xE4vle"
+    3300022: "G\xE4vle.001"
+    3300024: "G\xF6teborg"
+    3300026: "G\xF6teborg.001"
+    3300028: Hungary
+    3300030: Italy
+    3300032: Kiruna
+    3300034: Kiruna.001
+    3300036: Latvia
+    3300038: "Link\xF6ping"
+    3300040: "Link\xF6ping.001"
+    3300042: Lithuania
+    3300044: "Lule\xE5"
+    3300046: "Lule\xE5.001"
+    3300048: "Malm\xF6"
+    3300050: "Malm\xF6.001"
+    3300052: Malta
+    3300054: Netherlands
+    3300056: Norway Flat
+    3300058: Poland
+    3300060: Poland.001
+    3300062: Portugal
+    3300064: Republic of Cyprus
+    3300066: Rumanien
+    3300068: "Skellefte\xE5"
+    3300070: "Skellefte\xE5.001"
+    3300072: Slovakia
+    3300074: Slovenia
+    3300076: Spain
+    3300078: Stockholm
+    3300080: Stockholm.001
+    3300082: Sundsvall
+    3300084: Sundsvall.001
+    3300086: Sweden Engraved
+    3300088: Sweden Flat
+    3300090: Tyskland
+    3300092: Ukraina
+    3300094: "Ume\xE5"
+    3300096: "Ume\xE5.001"
+    3300098: Vitryssland
+    3300100: "V\xE4ster\xE5s"
+    3300102: "V\xE4ster\xE5s.001"
+    3300104: "\xD6rebro"
+    3300106: "\xD6rebro.001"
+    3300108: "\xD6stersund"
+    3300110: "\xD6stersund.001"
+    4300000: Czech. Rep.
+    4300002: Tyskland
+    4300004: Lithuania
+    4300006: Rumanien
+    4300008: Ukraina
+    4300010: Vitryssland
+    4300012: Finland Flat
+    4300014: Norway Flat
+    4300016: 'Contry Text '
+    4300018: Sweden Flat
+    4300020: Kiruna
+    4300022: "Lule\xE5"
+    4300024: "Skellefte\xE5"
+    4300026: "Ume\xE5"
+    4300028: "\xD6stersund"
+    4300030: Sundsvall
+    4300032: "G\xE4vle"
+    4300034: "V\xE4ster\xE5s"
+    4300036: Stockholm
+    4300038: "\xD6rebro"
+    4300040: "Link\xF6ping"
+    4300042: "G\xF6teborg"
+    4300044: "Malm\xF6"
+    4300046: "G\xE4vle.001"
+    4300048: Sweden Engraved
+    4300050: "G\xF6teborg.001"
+    4300052: Kiruna.001
+    4300054: "Link\xF6ping.001"
+    4300056: "Lule\xE5.001"
+    4300058: "Malm\xF6.001"
+    4300060: "Skellefte\xE5.001"
+    4300062: Stockholm.001
+    4300064: Sundsvall.001
+    4300066: "Ume\xE5.001"
+    4300068: "V\xE4ster\xE5s.001"
+    4300070: "\xD6rebro.001"
+    4300072: "\xD6stersund.001"
+    4300074: Poland
+    4300076: Latvia
+    4300078: Estonia
+    4300080: Bulgaria
+    4300082: Slovakia
+    4300084: Austria
+    4300086: Hungary
+    4300088: Netherlands
+    4300090: Belgium
+    4300092: France
+    4300094: Spain
+    4300096: Portugal
+    4300098: Italy
+    4300100: Slovenia
+    4300102: Croatia
+    4300104: Greece
+    4300106: Malta
+    4300108: Republic of Cyprus
+    4300110: Poland.001
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
