@@ -7,7 +7,7 @@ public class ClickContry : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Instantiate(Resources.Load("star")); //MUST BE INSIDE THE RESOURCES FOLDER!
     }
 
     // Update is called once per frame

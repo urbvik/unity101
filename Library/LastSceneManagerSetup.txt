@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/9LoadContry/LoadContry.unity
+- path: Assets/5StateMachine/StateMachine.unity
   isLoaded: 1
   isActive: 1
